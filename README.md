@@ -1,6 +1,6 @@
 # project
 
-A new Flutter project.
+To Do list Application Task Assign By StarX AI Technology.
 
 ## Getting Started
 
